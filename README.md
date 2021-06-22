@@ -1,3 +1,3 @@
 # test
 
-[![shrib.com Logo](https://shrib.com/zuex/icons/ms-icon-70x70.png)](https://shrib.com)
+[<img src="https://raw.githubusercontent.com/tempurl/test/main/online-lernen.png" width="40" />](https://shrib.com) 
